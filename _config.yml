@@ -1,13 +1,13 @@
 # theme: jekyll-theme-cayman
 
 # Site settings
-title: Wml Blog
-SEOTitle: 吴美莲的博客 | Wml Blog
+title: Zby Blog
+SEOTitle: 有求必应屋 | Zby Blog
 header-img: img/home-bg.png
-email: 1054527951@qq.com
-description: "前端开发 | 吴美莲，Web & Front-end Engineer | wumeilian的个人博客呀"
-keyword: "wumeilian, wml, wuml, 前端, Wml Blog, 博客，Web, Css, Javascript"
-url: "https://meilianwu.com/"              # your host, for absolute URL
+email: zby970923@163.com
+description: "后端开发 | Boyue Zhang, Devops & Back-end Engineer | 有求必应"
+keyword: "zhangboyue, zby, devops, 后端, Zby Blog, 博客，C++, Java, python"
+url: "https://zbeyond.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -31,7 +31,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 RSS: false
 weibo_username:     false
 zhihu_username:     false
-github_username:    wumeilian
+github_username:    zbeyond
 
 
 # Build settings
@@ -42,7 +42,7 @@ plugins: [jekyll-paginate]
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false   #是否开启Gitalk评论
   clientID: a84c2a57837302767371                            #生成的clientID
   clientSecret: 847046720bec629fbd3580d8f3cc617ab9d3a27a    #生成的clientSecret
   repo: wumeilian.github.io    #仓库名称
@@ -53,12 +53,4 @@ gitalk:
 
 # Friends
 friends: [
-  {
-    title: "wfm's github",
-    href: "https://wfm19970.github.io/"
-  },
-  {
-    title: "chenshuyao's blog",
-    href: "https://chenshuyao.cn/"
-  }
 ]
